@@ -1,0 +1,7 @@
+Topic 1: Introduction to AI
+Artificial Intelligence (AI) is the simulation of human intelligence in machines designed to think and learn like humans. It encompasses various subfields including machine learning, natural language processing, and computer vision.
+
+Key concepts:
+- Machine Learning: Algorithms that learn from data
+- Deep Learning: Neural networks with multiple layers
+- Ethics in AI: Ensuring responsible development

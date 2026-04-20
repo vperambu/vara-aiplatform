@@ -1,0 +1,7 @@
+Topic 2: Retrieval-Augmented Generation (RAG)
+RAG combines retrieval mechanisms with generative models to provide more accurate and contextually relevant responses. It retrieves relevant information from a knowledge base before generating answers.
+
+Benefits:
+- Improved accuracy
+- Reduced hallucinations
+- Up-to-date information
